@@ -35,3 +35,4 @@ Add a small results screenshot or sample output when the case study is refreshed
 
 - [GitHub profile](https://github.com/Amitkumardata)
 - [LinkedIn](https://www.linkedin.com/in/amit-kumar-4155a41b3)
+docs: document e-commerce SQL case studyAdd business questions, query coverage, execution notes, and a live demo link to the analytics project README.
